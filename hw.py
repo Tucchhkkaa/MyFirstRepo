@@ -1,1 +1,2 @@
-print("Hello World!")
+a = 'Anna'
+print(f'Привет, {a}!')
